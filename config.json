@@ -1,39 +1,68 @@
 {
-   "version": 2,
-   "settings": {
+  "WBUI2": {
+    "settings": {
       "openbutton": 0,
       "hideicon": false,
+      "hideiconafter": 60,
       "iconurl": "https://i.imgur.com/OZ6xOjY.png",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
       "openonstartonlynewplayers": false,
-      "updateinterval": 24
-   },
-   "tabs": [
+      "updateinterval": 12
+    },
+    "tabs": [
       {
-         "layout": 1, 
-         "buttontext": "Bienvenue",
-         "imageurl": "https://i.imgur.com/mGt3cAF.png",
-         "content": [
-            {
-               "type": "text",
-               "title": "Bienvenue sur NRV-ARK !",
-               "text": "**Rejoignez notre communauté !**\n\n🔗 [Notre site](https://nrv-ark.fr/)\n🎮 [Notre Discord](https://discord.gg/XZApgvEF)\n\nProfitez de votre aventure sur ARK !"
-            }
-         ]
-      }
-   ],
-   "links": [
-      {
-         "text": "Site Web",
-         "url": "https://nrv-ark.fr/"
+        "layout": 1,
+        "buttontext": "Bienvenue",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "Bienvenue sur NRV-ARK !",
+            "text": "📢 **Rejoignez notre communauté !**\\n\\n🔗 [Notre site](https://nrv-ark.fr/)\\n🎮 [Notre Discord](https://discord.gg/XZApgvEF)\\n\\nProfitez de votre aventure sur ARK !"
+          }
+        ]
       },
       {
-         "text": "Discord",
-         "url": "https://discord.gg/XZApgvEF"
+        "layout": 2,
+        "buttontext": "Règlement",
+        "content": [
+          {
+            "title": "Règles du Serveur",
+            "text": "🚫 Pas de grief\\n🚫 Pas de cheat\\n✅ Jouez fair-play !\\n\\n📢 **Rejoignez notre communauté !**\\n🔗 [Notre site](https://nrv-ark.fr/)\\n🎮 [Notre Discord](https://discord.gg/XZApgvEF)"
+          }
+        ]
+      },
+      {
+        "layout": 3,
+        "buttontext": "Paramètres",
+        "content": [
+          {
+            "title": "Paramètres WBUI2",
+            "text": "🔧 **Modifier la configuration**\\n\\n📌 Vous pouvez mettre à jour votre JSON via cette commande :\\n\\n```cheat scriptcommand WBUI2 update```"
+          }
+        ]
       }
-   ]
+    ],
+    "links": [
+      {
+        "text": "Site Web",
+        "url": "https://nrv-ark.fr/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/XZApgvEF"
+      },
+      {
+        "text": "Wiki WBUI2",
+        "url": "https://wiki.wbui2.de"
+      },
+      {
+        "text": "JSON Validator",
+        "url": "https://jsonlint.com"
+      }
+    ],
+    "version": 2
+  }
 }
- 
