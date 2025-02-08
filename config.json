@@ -13,13 +13,14 @@
    },
    "tabs": [
       {
-         "layout": 2,
+         "layout": 1, 
          "buttontext": "Bienvenue",
          "imageurl": "https://i.imgur.com/mGt3cAF.png",
          "content": [
             {
+               "type": "text",
                "title": "Bienvenue sur NRV-ARK !",
-               "text": "📢 **Rejoignez notre communauté !**\n\n🔗 [Notre site](https://nrv-ark.fr/)\n🎮 [Notre Discord](https://discord.gg/XZApgvEF)\n\nProfitez de votre aventure sur ARK !"
+               "text": "**Rejoignez notre communauté !**\n\n🔗 [Notre site](https://nrv-ark.fr/)\n🎮 [Notre Discord](https://discord.gg/XZApgvEF)\n\nProfitez de votre aventure sur ARK !"
             }
          ]
       }
@@ -35,3 +36,4 @@
       }
    ]
 }
+ 
