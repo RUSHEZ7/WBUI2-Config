@@ -19,50 +19,8 @@
         "imageurl": "https://i.imgur.com/84PXP23.png",
         "content": [
           {
-            "title": "<TextStyle.Gold>Bienvenue sur NRV-ARK !</>",
-            "text": "📢 <TextStyle.Orange>**Rejoignez notre communauté !**</>\n\n🔗 <TextStyle.LightBlue>[Notre site](https://nrv-ark.fr/)</>\n🎮 <TextStyle.LightBlue>[Notre Discord](https://discord.gg/XZApgvEF)</>\n\n<TextStyle.Green>Profitez de votre aventure sur ARK !</>"
-          }
-        ]
-      },
-      {
-        "layout": 2,
-        "buttontext": "Règlement",
-        "content": [
-          {
-            "title": "<TextStyle.Red>🚨 RÈGLES OFFICIELLES DU SERVEUR NRV 🚨</>",
-            "text": "<TextStyle.LightBlue>Bienvenue sur NRV !</>\n\nNous vous invitons à lire attentivement ces règles et à les respecter pour garantir un environnement agréable pour tous.\n\n🔗 <TextStyle.Gold>[www.nrv-ark.fr](https://nrv-ark.fr/)</>"
-          },
-          {
-            "title": "👥 <TextStyle.Orange>1️⃣ Respect et bienveillance</>",
-            "text": "🔴 <TextStyle.Red>**Interdits :**</>\n- Insultes, menaces ou comportements toxiques.\n- Toute forme de discrimination (racisme, sexisme, etc.).\n\n✅ <TextStyle.Green>**Exigences :**</>\n- Respectez les administrateurs et modérateurs.\n- Communiquez de manière respectueuse.\n⚠️ <TextStyle.Red>Toute infraction entraînera des sanctions immédiates.</>"
-          },
-          {
-            "title": "👥 <TextStyle.Orange>2️⃣ Connexion au site NRV (Obligatoire)</>",
-            "text": "🔗 <TextStyle.LightBlue>[www.nrv-ark.fr](https://nrv-ark.fr/)</>\n\n🎁 <TextStyle.Green>**Avantages pour les membres connectés :**</>\n- 🎮 Points et boutique : Collectez des points et échangez-les contre des objets.\n- ✨ Accès exclusif : Participez aux événements et recevez des bonus.\n- 🛒 Shop complet : Une expérience équitable et accessible à tous."
-          },
-          {
-            "title": "👥 <TextStyle.Orange>3️⃣ Contenu approprié et canaux</>",
-            "text": "🚫 <TextStyle.Red>**Interdits :**</>\n- Propos haineux, violents ou discriminatoires.\n- Publicité, spam ou liens douteux.\n\n🔞 <TextStyle.Purple>**Discussions sensibles :**</>\n- Réservées au canal dédié (+18).\n- Respect obligatoire même dans cet espace."
-          },
-          {
-            "title": "👥 <TextStyle.Orange>4️⃣ Relations entre joueurs et tribus</>",
-            "text": "🚫 <TextStyle.Red>**Interdits :**</>\n- Alliances permanentes entre tribus.\n✅ <TextStyle.Green>**Autorisé :**</>\n- Commerce ou échanges ponctuels entre joueurs.\n⚠️ <TextStyle.Red>Les tentatives de contournement des règles seront sanctionnées.</>"
-          },
-          {
-            "title": "👥 <TextStyle.Orange>5️⃣ Sanctions en cas de violation</>",
-            "text": "⚠️ <TextStyle.Red>**Avertissement verbal ou écrit.**</>\n❌ <TextStyle.Red>**Suppression des contenus inappropriés.**</>\n🚫 <TextStyle.Red>**Bannissement temporaire ou définitif.**</>"
-          },
-          {
-            "title": "👥 <TextStyle.Orange>6️⃣ Responsabilités des joueurs</>",
-            "text": "🚨 <TextStyle.Red>**Toute activité nuisible envers la communauté entraînera des sanctions immédiates.**</>"
-          },
-          {
-            "title": "👥 <TextStyle.Orange>7️⃣ Interdiction des noms génériques</>",
-            "text": "🚨 <TextStyle.Red>**Les noms génériques comme \"123\" sont interdits.**</>\n<TextStyle.Gold>Les noms non conformes seront modifiés ou supprimés.</>"
-          },
-          {
-            "title": "👥 <TextStyle.Orange>8️⃣ Règles évolutives</>",
-            "text": "📢 <TextStyle.LightBlue>**Les règles peuvent évoluer. Consultez le site :**</>\n🔗 <TextStyle.Gold>[www.nrv-ark.fr](https://nrv-ark.fr/)</>"
+            "title": "**Bienvenue sur NRV-ARK !**",
+            "text": "📢 **Rejoignez notre communauté !**\n\n🔗 [Notre site](https://nrv-ark.fr/)\n🎮 [Notre Discord](https://discord.gg/XZApgvEF)\n\nProfitez de votre aventure sur ARK !"
           }
         ]
       }
