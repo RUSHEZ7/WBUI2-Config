@@ -29,8 +29,40 @@
         "buttontext": "Règlement",
         "content": [
           {
-            "title": "Règles du Serveur",
-            "text": "🚫 Pas de grief\\n🚫 Pas de cheat\\n✅ Jouez fair-play !\\n\\n📢 **Rejoignez notre communauté !**\\n🔗 [Notre site](https://nrv-ark.fr/)\\n🎮 [Notre Discord](https://discord.gg/XZApgvEF)"
+            "title": "🚨 RÈGLES OFFICIELLES DU SERVEUR NRV 🚨",
+            "text": "**Bienvenue sur NRV !**\\n\\nNous vous invitons à lire attentivement ces règles et à les respecter pour garantir un environnement agréable pour tous.\\n\\n🔗 **[www.nrv-ark.fr](https://nrv-ark.fr/)**"
+          },
+          {
+            "title": "👥 1️⃣ Respect et bienveillance",
+            "text": "🔴 **Interdits :**\\n- Insultes, menaces ou comportements toxiques.\\n- Toute forme de discrimination (racisme, sexisme, etc.).\\n\\n✅ **Exigences :**\\n- Respectez les administrateurs et modérateurs.\\n- Communiquez de manière respectueuse.\\n⚠️ Toute infraction entraînera des sanctions immédiates."
+          },
+          {
+            "title": "👥 2️⃣ Connexion au site NRV (Obligatoire)",
+            "text": "Pour profiter pleinement du serveur et accéder à 100 % des fonctionnalités, connectez-vous à notre site officiel :\\n🔗 **[www.nrv-ark.fr](https://nrv-ark.fr/)**\\n\\n🎁 **Avantages pour les membres connectés :**\\n- 🎮 Points et boutique : Collectez des points et échangez-les contre des objets ou dinosaures.\\n- ✨ Accès exclusif : Participez aux événements et recevez des bonus.\\n- 🛒 Shop complet : Une expérience équitable et accessible à tous."
+          },
+          {
+            "title": "👥 3️⃣ Contenu approprié et canaux",
+            "text": "🚫 **Interdits :**\\n- Propos haineux, violents ou discriminatoires.\\n- Publicité, spam ou liens douteux.\\n\\n🔞 **Discussions sensibles :**\\n- Réservées au canal dédié (+18).\\n- Respect obligatoire même dans cet espace."
+          },
+          {
+            "title": "👥 4️⃣ Relations entre joueurs et tribus",
+            "text": "🚫 **Interdits :**\\n- Alliances permanentes entre tribus.\\n✅ **Autorisé :**\\n- Commerce ou échanges ponctuels entre joueurs.\\n⚠️ Les tentatives de contournement des règles seront sanctionnées."
+          },
+          {
+            "title": "👥 5️⃣ Sanctions en cas de violation",
+            "text": "⚠️ **Avertissement verbal ou écrit.**\\n❌ **Suppression des contenus inappropriés.**\\n🚫 **Bannissement temporaire ou définitif.**"
+          },
+          {
+            "title": "👥 6️⃣ Responsabilités des joueurs",
+            "text": "🚨 Toute activité nuisible envers la communauté entraînera des sanctions immédiates."
+          },
+          {
+            "title": "👥 7️⃣ Interdiction des noms génériques",
+            "text": "Les noms génériques comme \"123\" sont strictement interdits.\\n🚨 **Attention :** Les noms non conformes seront modifiés ou supprimés."
+          },
+          {
+            "title": "👥 8️⃣ Règles évolutives",
+            "text": "Les règles peuvent évoluer en fonction des besoins de la communauté.\\n📢 Consultez régulièrement les annonces officielles sur le site :\\n🔗 **[www.nrv-ark.fr](https://nrv-ark.fr/)**"
           }
         ]
       }
