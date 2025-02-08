@@ -33,16 +33,6 @@
             "text": "🚫 Pas de grief\\n🚫 Pas de cheat\\n✅ Jouez fair-play !\\n\\n📢 **Rejoignez notre communauté !**\\n🔗 [Notre site](https://nrv-ark.fr/)\\n🎮 [Notre Discord](https://discord.gg/XZApgvEF)"
           }
         ]
-      },
-      {
-        "layout": 3,
-        "buttontext": "Paramètres",
-        "content": [
-          {
-            "title": "Paramètres WBUI2",
-            "text": "🔧 **Modifier la configuration**\\n\\n📌 Vous pouvez mettre à jour votre JSON via cette commande :\\n\\n```cheat scriptcommand WBUI2 update```"
-          }
-        ]
       }
     ],
     "links": [
@@ -53,14 +43,6 @@
       {
         "text": "Discord",
         "url": "https://discord.gg/XZApgvEF"
-      },
-      {
-        "text": "Wiki WBUI2",
-        "url": "https://wiki.wbui2.de"
-      },
-      {
-        "text": "JSON Validator",
-        "url": "https://jsonlint.com"
       }
     ],
     "version": 2
