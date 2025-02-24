@@ -1,101 +1,49 @@
 {
-    "WBUI2":
-    {
-        "settings":
-        {
-            "openbutton": 1,
-            "hideicon": true,
-            "hideiconafter": 10,
-            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+    "WBUI2": {
+        "settings": {
+            "openbutton": 0,
+            "hideicon": false,
+            "hideiconafter": 60,
+            "iconurl": "https://i.imgur.com/5PGCz20.png",
             "disableicontext": false,
             "iconposition": 0,
             "icontextcolor": 0,
             "openonstart": true,
             "openonstartonlynewplayers": true,
-            "updateinterval": 24
+            "updateinterval": 12
         },
         "tabs": [
             {
                 "layout": 1,
-                "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "buttontext": "Bienvenue",
+                "imageurl": "https://i.imgur.com/84PXP23.png",
                 "content": [
                     {
-                        "title": "Welcome to WBUI2!",
-                        "text": "Your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available predefined colors and the syntax for a colorized and bigger letters for the general text:\n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\"1,0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"0,1,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!"
+                        "title": "Bienvenue sur le serveur NRV !",
+                        "text": "Bienvenue survivant ! Ce serveur utilise WBUI2 pour afficher les règles, événements et autres infos utiles.\n\nUtilise le menu ci-dessous pour accéder aux différents paramètres et liens utiles.\n\nTu peux retrouver toutes les informations du serveur sur notre site web et Discord."
                     }
                 ]
             },
             {
-                "layout": 2,
-                "buttontext": "2 Box layout",
+                "layout": 1,
+                "buttontext": "Règles",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Left title",
-                        "text": "This text goes into the left box"
-                    },
-                    {
-                        "title": "Right title",
-                        "text": "This text goes into the right box"
-                    }
-                ]
-            },
-            {
-                "layout": 3,
-                "buttontext": "3 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Left title",
-                        "text": "This text goes into the left box"
-                    },
-                    {
-                        "title": "Top right title",
-                        "text": "This text goes into the top right box"
-                    },
-                    {
-                        "title": "Bottom right title",
-                        "text": "This text goes into the bottom right box"
-                    }
-                ]
-            },
-            {
-                "layout": 4,
-                "buttontext": "4 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Top left title",
-                        "text": "<TextStyle.Orange>This text goes into the top left box</>"
-                    },
-                    {
-                        "title": "<TextStyle.Green>Top right title</>",
-                        "text": "<TextStyle.Violet>This text goes into the top right box</>"
-                    },
-                    {
-                        "title": "<TextStyle.Blue>Bottom left title</>",
-                        "text": "<TextStyle.Red>This text goes into the bottom left box</>"
-                    },
-                    {
-                        "title": "<TextStyle.Yellow>Bottom right title</>",
-                        "text": "<TextStyle.White>This text goes into the bottom right box</>"
+                        "title": "Règles du serveur",
+                        "text": "1. Respect des autres joueurs.\n2. Pas de triche ou d'abus de glitchs.\n3. Pas de spam ou de pub dans le chat.\n4. Jouez fair-play et amusez-vous !\n\nPour plus de détails, consultez notre site web."
                     }
                 ]
             }
         ],
         "links": [
             {
-                "text": "Link to Wiki",
-                "url": "https://wiki.wbui2.de"
+                "text": "Site Web",
+                "url": "https://nrv-ark.fr/"
             },
             {
-                "text": "Link to discord",
-                "url": "https://discord.com/invite/K7NyrTV"
-            },
-            {
-                "text": "Link to google",
-                "url": "https://google.com"
+                "text": "Discord",
+                "url": "https://discord.gg/XZApgvEF"
             }
         ],
         "version": 2
