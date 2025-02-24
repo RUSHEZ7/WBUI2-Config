@@ -57,6 +57,17 @@
                         "text": "Découvrez les meilleurs joueurs du serveur!"
                     }
                 ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "F1 - Aide et Commandes",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Commandes utiles",
+                        "text": "\nVoici quelques commandes utiles sur le serveur:\n\n<TextStyle.Yellow>/shop</> - Accédez à la boutique du serveur\n<TextStyle.Yellow>/vip</> - Infos sur les avantages VIP\n<TextStyle.Yellow>/event</> - Consultez les événements en cours\n<TextStyle.Yellow>/discord</> - Lien direct vers notre Discord"
+                    }
+                ]
             }
         ],
         "links": [
