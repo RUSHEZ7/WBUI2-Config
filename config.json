@@ -2,7 +2,14 @@
     "WBUI2": {
         "settings": {
             "openbutton": 0,
-            "iconurl": "https://i.imgur.com/5PGCz20.png",
+            "hideicon": false,
+            "hideiconafter": 60,
+            "iconurl": "https://i.imgur.com/5PGC2z0.png",
+            "disableicontext": false,
+            "iconposition": 0,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": false,
             "updateinterval": 12
         },
         "tabs": [
@@ -13,7 +20,7 @@
                 "content": [
                     {
                         "title": "NRV Nouvelle Résistance Virtuelle",
-                        "text": ""
+                        "text": "Bienvenue sur le serveur NRV ! Retrouvez toutes les infos ici."
                     }
                 ]
             }
