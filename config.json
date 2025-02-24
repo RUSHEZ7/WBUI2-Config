@@ -1,37 +1,60 @@
 {
     "WBUI2": {
         "settings": {
-            "openbutton": 0,
-            "hideicon": false,
-            "hideiconafter": 60,
-            "iconurl": "https://i.imgur.com/5PGCz20.png",
+            "openbutton": 1,
+            "hideicon": true,
+            "hideiconafter": 10,
+            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
             "disableicontext": false,
             "iconposition": 0,
             "icontextcolor": 0,
             "openonstart": true,
             "openonstartonlynewplayers": true,
-            "updateinterval": 12
+            "updateinterval": 24
         },
         "tabs": [
             {
                 "layout": 1,
-                "buttontext": "Bienvenue",
-                "imageurl": "https://i.imgur.com/84PXP23.png",
+                "buttontext": "Bienvenue sur NRV ARK!",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Bienvenue sur le serveur NRV !",
-                        "text": "Bienvenue survivant ! Ce serveur utilise WBUI2 pour afficher les règles, événements et autres infos utiles.\n\nUtilise le menu ci-dessous pour accéder aux différents paramètres et liens utiles.\n\nTu peux retrouver toutes les informations du serveur sur notre site web et Discord."
+                        "title": "Bienvenue sur NRV ARK!",
+                        "text": "\nBienvenue sur le serveur NRV ARK! Profitez d'une aventure unique avec notre communauté active.\n\n<TextStyle.Green>Site officiel:</> <RichColor Color=\"0,1,0,1\">https://nrv-ark.fr/</>\n<TextStyle.Blue>Rejoignez notre Discord:</> <RichColor Color=\"0,0,1,1\">https://discord.gg/XZApgvEF</>\n\nDécouvrez les fonctionnalités spéciales et les événements exclusifs en consultant les autres onglets!"
                     }
                 ]
             },
             {
-                "layout": 1,
-                "buttontext": "Règles",
+                "layout": 2,
+                "buttontext": "Règles & Infos",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
                         "title": "Règles du serveur",
-                        "text": "1. Respect des autres joueurs.\n2. Pas de triche ou d'abus de glitchs.\n3. Pas de spam ou de pub dans le chat.\n4. Jouez fair-play et amusez-vous !\n\nPour plus de détails, consultez notre site web."
+                        "text": "Respectez les autres joueurs, pas de cheats, pas de griefing. \nConsultez les règles détaillées sur notre site!"
+                    },
+                    {
+                        "title": "Infos utiles",
+                        "text": "Serveur PvE avec mods exclusifs.\nBoosts et événements réguliers!"
+                    }
+                ]
+            },
+            {
+                "layout": 3,
+                "buttontext": "Événements & Boutique",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Événements",
+                        "text": "Participez à nos tournois et événements spéciaux!"
+                    },
+                    {
+                        "title": "Boutique",
+                        "text": "Soutenez le serveur et obtenez des récompenses exclusives!"
+                    },
+                    {
+                        "title": "Classements",
+                        "text": "Découvrez les meilleurs joueurs du serveur!"
                     }
                 ]
             }
