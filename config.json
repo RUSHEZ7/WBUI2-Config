@@ -25,8 +25,8 @@
         "imageurl": "https://i.imgur.com/YOUR_DISCORD_IMAGE.png",
         "content": [
           {
-            "title": "Rejoignez notre serveur Discord",
-            "text": "<TextStyle.LightBlue>Pour profiter de tout le potentiel de notre serveur et rester informe des mises a jour, evenements et actualites, rejoignez notre Discord pour acceder a toutes les fonctionnalites, points gratuits, sondages, tirages au sort, la communaute et les regles.</><TextStyle.Orange>\\n\\nCliquez sur le bouton a gauche pour rejoindre l'aventure !</>"
+            "title": "<TextStyle.LightBlue><TextStyle.LightBlue>Rejoignez notre communaute</></>",
+            "text": "Pour profiter de tout le potentiel de notre serveur et rester informe des mises a jour, evenements et actualites, rejoignez notre Discord pour acceder a toutes les fonctionnalites, points gratuits, sondages, tirages au sort, la communaute et les regles.<TextStyle.Orange><TextStyle.Orange>\\n\\nCliquez sur le bouton en bas a gauche pour rejoindre l'aventure !</></>"
           }
         ],
         "link": {
