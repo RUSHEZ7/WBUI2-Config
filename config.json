@@ -26,7 +26,7 @@
         "content": [
           {
             "title": "Rejoignez notre communaute",
-            "text": "<TextStyle.LightBlue>Profitez de toutes les fonctionnalites, evenements et exclusivites de notre serveur. Restez informe des mises a jour, sondages et tirages au sort en rejoignant notre Discord. Accedez a la communaute, aux regles et aux points gratuits !</><TextStyle.Orange>\\n\\nCliquez sur le bouton a gauche pour vivre l'aventure !</>"
+            "text": "<TextStyle.LightBlue>Profitez de toutes les fonctionnalites, evenements et exclusivites de notre serveur.</>\\n<TextStyle.Green>Restez informe des mises a jour, sondages et tirages au sort en rejoignant notre Discord.</>\\n<TextStyle.Orange>Accedez a la communaute, aux regles et aux points gratuits !</>\\n\\n<TextStyle.Red>Cliquez sur le bouton a gauche pour vivre l'aventure !</>"
           }
         ],
         "link": {
