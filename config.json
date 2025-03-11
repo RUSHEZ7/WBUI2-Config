@@ -15,38 +15,59 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Bienvenue",
+        "buttontext": "<TextStyle.LightBlue>Bienvenue</>",
         "imageurl": "https://i.imgur.com/bUMOSH9.png",
-        "content": []
+        "content": [
+          {
+            "title": "<TextStyle.White>Bienvenue sur NRV ARK !</>",
+            "text": "<RichColor Color=\"0.8,0.8,0.8,1\">Rejoignez une aventure unique sur nos serveurs NRV ARK.</>\n\n"
+          }
+        ]
       },
       {
         "layout": 2,
-        "buttontext": "Discord",
+        "buttontext": "<TextStyle.Blue>Discord</>",
         "imageurl": "https://i.imgur.com/YOUR_DISCORD_IMAGE.png",
-        "content": [],
+        "content": [
+          {
+            "title": "<TextStyle.White>🏆 Rejoignez notre communauté !</>",
+            "text": "<RichColor Color=\"1,1,1,1\">"
+                    "📢 <TextStyle.LightBlue>Restez informé</> : annonces, mises à jour et événements du serveur.\n"
+                    "🤝 <TextStyle.LightBlue>Échangez avec la communauté</> : trouvez des coéquipiers, partagez vos expériences et participez aux discussions.\n"
+                    "🎁 <TextStyle.LightBlue>Accédez aux avantages exclusifs</> : giveaways, sondages et infos en avant-première.\n"
+                    "❓ <TextStyle.LightBlue>Besoin d’aide ?</> Notre équipe est là pour vous accompagner.\n\n"
+                    "🔗 <TextStyle.Yellow>Cliquez sur le bouton en bas à gauche pour rejoindre l'aventure !</> 🚀🔥"
+                    "</>"
+          }
+        ],
         "link": {
-          "text": "Rejoindre Discord",
+          "text": "🔥 Rejoindre le Discord 🔥",
           "url": "https://discord.gg/ZcWWTVCv"
         }
       },
       {
         "layout": 2,
-        "buttontext": "Site Web",
+        "buttontext": "<TextStyle.Orange>Site Web</>",
         "imageurl": "https://i.imgur.com/YOUR_SITE_IMAGE.png",
-        "content": [],
+        "content": [
+          {
+            "title": "<TextStyle.White>🌎 Découvrez tout sur NRV ARK !</>",
+            "text": "<RichColor Color=\"1,1,1,1\">📌 Toutes les infos, guides et classements sont disponibles sur notre site officiel.</>\n\n"
+          }
+        ],
         "link": {
-          "text": "Visiter le site",
+          "text": "🌍 Visiter le site officiel 🌍",
           "url": "https://nrv-ark.fr/"
         }
       }
     ],
     "links": [
       {
-        "text": "Discord",
+        "text": "<TextStyle.Blue>Discord</>",
         "url": "https://discord.gg/ZcWWTVCv"
       },
       {
-        "text": "Site Web",
+        "text": "<TextStyle.Orange>Site Web</>",
         "url": "https://nrv-ark.fr/"
       }
     ],
