@@ -26,7 +26,7 @@
         "content": [
           {
             "title": "Rejoignez notre serveur Discord",
-            "text": "Pour profiter de tout le potentiel de notre serveur et rester informé des mises à jour, événements et actualites, rejoignez notre Discord.\n\nCliquez sur le bouton a gauche pour rejoindre l'aventure."
+            "text": "<TextStyle.LightBlue>Pour profiter de tout le potentiel de notre serveur et rester informe des mises a jour, evenements et actualites, rejoignez notre Discord pour acceder a toutes les fonctionnalites, points gratuits, sondages, tirages au sort, la communaute et les regles.</><TextStyle.Orange>\\n\\nCliquez sur le bouton a gauche pour rejoindre l'aventure !</>"
           }
         ],
         "link": {
