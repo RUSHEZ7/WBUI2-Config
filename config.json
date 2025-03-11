@@ -17,14 +17,26 @@
         "layout": 1,
         "buttontext": "Bienvenue",
         "imageurl": "https://i.imgur.com/bUMOSH9.png",
-        "content": []
+        "content": [
+          {
+            "title": "Bienvenue sur NRV ARK!",
+            "text": "*Profitez d'une expérience unique sur nos serveurs!*"
+          }
+        ]
       },
       {
         "layout": 2,
         "buttontext": "Discord",
         "imageurl": "https://i.imgur.com/YOUR_DISCORD_IMAGE.png",
         "content": [
-          
+          {
+            "title": "🏆 Rejoignez notre communauté sur Discord !",
+            "text": "**📢 Restez informé en temps réel** : annonces, mises à jour et événements du serveur.\n"
+                    "**🤝 Échangez avec la communauté** : trouvez des coéquipiers, partagez vos expériences et participez aux discussions.\n"
+                    "**🎁 Accédez aux avantages exclusifs** : giveaways, sondages et informations en avant-première.\n"
+                    "**❓ Besoin d’aide ?** Notre équipe est là pour vous accompagner.\n\n"
+                    "🔗 **Cliquez sur le bouton en bas à gauche pour rejoindre l'aventure !** 🚀🔥"
+          }
         ],
         "link": {
           "text": "Rejoindre Discord",
@@ -35,7 +47,12 @@
         "layout": 2,
         "buttontext": "Site Web",
         "imageurl": "https://i.imgur.com/YOUR_SITE_IMAGE.png",
-        "content": [],
+        "content": [
+          {
+            "title": "Découvrez tout sur NRV ARK!",
+            "text": "**📌 Toutes les infos, guides et classements sur notre site officiel.**"
+          }
+        ],
         "link": {
           "text": "Visiter le site",
           "url": "https://nrv-ark.fr/"
