@@ -1,105 +1,70 @@
 {
-    "WBUI2": {
-        "settings": {
-            "openbutton": 282,
-            "hideicon": true,
-            "hideiconafter": 10,
-            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
-            "disableicontext": false,
-            "iconposition": 0,
-            "icontextcolor": 0,
-            "openonstart": true,
-            "openonstartonlynewplayers": true,
-            "updateinterval": 24
-        },
-        "tabs": [
-            {
-                "layout": 1,
-                "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Bienvenue sur WBUI2 !",
-                        "text": "Votre texte peut être ici...\n\nVous pouvez ajouter autant d'onglets/liens que vous le souhaitez, tant que cela rentre dans l'interface.\n\nVoici les couleurs prédéfinies disponibles pour styliser le texte :\n\n<TextStyle.LightBlue>LightBlue</>\n<TextStyle.Red>Red</>\n<TextStyle.Green>Green</>\n<TextStyle.Blue>Blue</>\n<TextStyle.Yellow>Yellow</>\n<TextStyle.Orange>Orange</>\n<TextStyle.Violet>Violet</>\n<TextStyle.White>White</>\n<TextStyle.Black>Black</>\n\nVous pouvez aussi utiliser ARKML pour personnaliser les couleurs des titres et des textes."
-                    }
-                ]
-            },
-            {
-                "layout": 2,
-                "buttontext": "2 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Titre gauche",
-                        "text": "Ce texte est affiché dans la boîte de gauche"
-                    },
-                    {
-                        "title": "Titre droit",
-                        "text": "Ce texte est affiché dans la boîte de droite"
-                    }
-                ]
-            },
-            {
-                "layout": 3,
-                "buttontext": "3 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Titre gauche",
-                        "text": "Ce texte est affiché dans la boîte de gauche"
-                    },
-                    {
-                        "title": "Titre haut droit",
-                        "text": "Ce texte est affiché dans la boîte en haut à droite"
-                    },
-                    {
-                        "title": "Titre bas droit",
-                        "text": "Ce texte est affiché dans la boîte en bas à droite"
-                    }
-                ]
-            },
-            {
-                "layout": 4,
-                "buttontext": "4 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Titre haut gauche",
-                        "text": "<TextStyle.Orange>Ce texte est affiché en haut à gauche</>"
-                    },
-                    {
-                        "title": "<TextStyle.Green>Titre haut droit</>",
-                        "text": "<TextStyle.Violet>Ce texte est affiché en haut à droite</>"
-                    },
-                    {
-                        "title": "<TextStyle.Blue>Titre bas gauche</>",
-                        "text": "<TextStyle.Red>Ce texte est affiché en bas à gauche</>"
-                    },
-                    {
-                        "title": "<TextStyle.Yellow>Titre bas droit</>",
-                        "text": "<TextStyle.White>Ce texte est affiché en bas à droite</>"
-                    }
-                ]
-            }
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Bienvenue",
+        "imageurl": "https://i.imgur.com/YOUR_IMAGE_HERE.png",
+        "content": [
+          {
+            "title": "Bienvenue sur NRV ARK!",
+            "text": "Plongez dans une aventure unique sur nos serveurs **NRV ARK**.\n\n⚡ **Taux x15 - Expérience immersive**\n🦖 **Dinosaures exclusifs - Events réguliers**\n🎁 **Récompenses spéciales pour les joueurs actifs**\n\n**Besoin d'aide ou envie de rejoindre la communauté?**\nConsultez notre Discord et notre site web en cliquant sur les onglets ci-dessous."
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Discord",
+        "imageurl": "https://i.imgur.com/YOUR_DISCORD_IMAGE.png",
+        "content": [
+          {
+            "title": "Rejoignez notre communauté!",
+            "text": "Participez aux discussions, aux événements et restez informé des mises à jour en rejoignant notre Discord officiel.\n\n**📌 Cliquez sur le bouton ci-dessous pour nous rejoindre!**"
+          }
         ],
-        "links": [
-            {
-                "text": "Dododex",
-                "url": "https://www.dododex.com/"
-            },
-            {
-                "text": "ARK Wiki",
-                "url": "https://ark.wiki.gg/fr/wiki/ARK:_Survival_Ascended"
-            },
-            {
-                "text": "Site Web",
-                "url": "https://nrv-ark.fr/"
-            },
-            {
-                "text": "Discord NRV",
-                "url": "https://discord.gg/XZApgvEF"
-            }
+        "link": {
+          "text": "Rejoindre Discord",
+          "url": "https://discord.gg/ZcWWTVCv"
+        }
+      },
+      {
+        "layout": 2,
+        "buttontext": "Site Web",
+        "imageurl": "https://i.imgur.com/YOUR_SITE_IMAGE.png",
+        "content": [
+          {
+            "title": "Découvrez tout sur NRV ARK!",
+            "text": "Toutes les infos, les guides, les nouveautés et les classements sont disponibles sur notre site officiel.\n\n**📌 Cliquez sur le bouton ci-dessous pour explorer notre site!**"
+          }
         ],
-        "version": 2
-    }
+        "link": {
+          "text": "Visiter le site",
+          "url": "https://nrv-ark.fr/"
+        }
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/ZcWWTVCv"
+      },
+      {
+        "text": "Site Web",
+        "url": "https://nrv-ark.fr/"
+      }
+    ],
+    "version": 2
+  }
 }
