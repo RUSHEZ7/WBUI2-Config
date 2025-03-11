@@ -20,13 +20,13 @@
         "content": []
       },
       {
-        "layout": 2,
+        "layout": 1,
         "buttontext": "Discord",
         "imageurl": "https://i.imgur.com/YOUR_DISCORD_IMAGE.png",
         "content": [
           {
             "title": "Rejoignez notre communaute",
-            "text": "<TextStyle.LightBlue>Profitez de toutes les fonctionnalites, evenements et exclusivites de notre serveur.</>\\n\\n<TextStyle.Green>Restez informe des mises a jour, sondages et tirages au sort en rejoignant notre Discord.</>\\n\\n<TextStyle.Orange>Accedez a la communaute, aux regles et aux points gratuits !</>\\n\\n\\n\\n\\n\\n<TextStyle.Red><Align Left>Cliquez sur le bouton en bas a gauche pour vivre l'aventure !</></>"
+            "text": "Profitez de toutes les fonctionnalites, evenements et exclusivites de notre serveur.\\n\\nRestez informe des mises a jour, sondages et tirages au sort en rejoignant notre Discord.\\n\\nAccedez a la communaute, aux regles et aux points gratuits !\\n\\n\\n\\n\\n\\nCliquez sur le bouton en bas a gauche pour vivre l'aventure !"
           }
         ],
         "link": {
