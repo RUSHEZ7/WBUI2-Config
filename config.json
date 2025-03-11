@@ -3,66 +3,20 @@
     "settings": {
       "openbutton": 0,
       "hideicon": false,
-      "hideiconafter": 60,
       "iconurl": "https://i.imgur.com/OZ6xOjY.png",
-      "disableicontext": false,
-      "iconposition": 0,
-      "icontextcolor": 0,
-      "openonstart": true,
-      "openonstartonlynewplayers": true,
-      "updateinterval": 12
+      "openonstart": true
     },
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Bienvenue",
+        "buttontext": "Test WBUI",
         "imageurl": "https://i.imgur.com/YOUR_IMAGE_HERE.png",
         "content": [
           {
-            "title": "Bienvenue sur NRV ARK!",
-            "text": "Plongez dans une aventure unique sur nos serveurs **NRV ARK**.\n\n⚡ **Taux x15 - Expérience immersive**\n🦖 **Dinosaures exclusifs - Events réguliers**\n🎁 **Récompenses spéciales pour les joueurs actifs**\n\n**Besoin d'aide ou envie de rejoindre la communauté?**\nConsultez notre Discord et notre site web en cliquant sur les onglets ci-dessous."
+            "title": "Test WBUI2",
+            "text": "Si tu vois ce texte, WBUI2 charge bien le JSON !"
           }
         ]
-      },
-      {
-        "layout": 2,
-        "buttontext": "Discord",
-        "imageurl": "https://i.imgur.com/YOUR_DISCORD_IMAGE.png",
-        "content": [
-          {
-            "title": "Rejoignez notre communauté!",
-            "text": "Participez aux discussions, aux événements et restez informé des mises à jour en rejoignant notre Discord officiel.\n\n**📌 Cliquez sur le bouton ci-dessous pour nous rejoindre!**"
-          }
-        ],
-        "link": {
-          "text": "Rejoindre Discord",
-          "url": "https://discord.gg/ZcWWTVCv"
-        }
-      },
-      {
-        "layout": 2,
-        "buttontext": "Site Web",
-        "imageurl": "https://i.imgur.com/YOUR_SITE_IMAGE.png",
-        "content": [
-          {
-            "title": "Découvrez tout sur NRV ARK!",
-            "text": "Toutes les infos, les guides, les nouveautés et les classements sont disponibles sur notre site officiel.\n\n**📌 Cliquez sur le bouton ci-dessous pour explorer notre site!**"
-          }
-        ],
-        "link": {
-          "text": "Visiter le site",
-          "url": "https://nrv-ark.fr/"
-        }
-      }
-    ],
-    "links": [
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/ZcWWTVCv"
-      },
-      {
-        "text": "Site Web",
-        "url": "https://nrv-ark.fr/"
       }
     ],
     "version": 2
