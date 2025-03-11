@@ -26,7 +26,7 @@
         "content": [
           {
             "title": "Rejoignez notre communaute",
-            "text": "<TextStyle.LightBlue>Profitez de toutes les fonctionnalites, evenements et exclusivites de notre serveur.</>\\n\\n<TextStyle.Green>Restez informe des mises a jour, sondages et tirages au sort en rejoignant notre Discord.</>\\n\\n<TextStyle.Orange>Accedez a la communaute, aux regles et aux points gratuits !</>\\n\\n\\n\\n\\n\\n<TextStyle.Red><Align Left>Cliquez sur le bouton en bas a gauche pour vivre l'aventure !</></>"
+            "text": "<TextStyle.LightBlue>Profitez de toutes les fonctionnalites, evenements et exclusivites de notre serveur.</>\\n\\n<TextStyle.Green>Restez informe des mises a jour, sondages et tirages au sort en rejoignant notre Discord.</>\\n\\n<TextStyle.Orange>Accedez a la communaute, aux regles et aux points gratuits !</>\\n\\n\\n\\n\\n\\n<TextStyle.Red><Align Left>Cliquez sur le bouton en bas a gauche pour vivre l'aventure !</>"
           }
         ],
         "link": {
@@ -38,9 +38,14 @@
         "layout": 2,
         "buttontext": "Site Web",
         "imageurl": "https://i.imgur.com/YOUR_SITE_IMAGE.png",
-        "content": [],
+        "content": [
+          {
+            "title": "<TextStyle.Yellow>Decouvrez tout sur NRV ARK</>",
+            "text": "<TextStyle.White>Chaque jour, cochez votre calendrier pour obtenir des points gratuits et profiter des offres exclusives du shop.</>\\n\\n<TextStyle.Green>Participez a notre systeme de vote pour gagner encore plus de points et acceder a des promotions exceptionnelles.</>\\n\\n<TextStyle.Blue>Rejoignez-nous sur le site et vivez une experience unique !</>"
+          }
+        ],
         "link": {
-          "text": "Visiter le site",
+          "text": "<TextStyle.Blue>Visiter le site</>",
           "url": "https://nrv-ark.fr/"
         }
       }
