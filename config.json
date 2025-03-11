@@ -25,12 +25,12 @@
         "imageurl": "https://i.imgur.com/YOUR_DISCORD_IMAGE.png",
         "content": [
           {
-            "title": "<TextStyle.LightBlue>Rejoignez notre communaute</>",
-            "text": "Restez informe des annonces, mises a jour et evenements du serveur. <TextStyle.Green>Participez aux discussions et trouvez des coequipiers.</> <TextStyle.Orange>Profitez d'avantages exclusifs: giveaways, sondages et infos en avant-premiere.</> <TextStyle.Red>Cliquez sur le bouton en bas a gauche pour rejoindre l'aventure !</>"
+            "title": "Rejoignez notre serveur Discord",
+            "text": "Pour profiter de tout le potentiel de notre serveur et rester informé des mises à jour, événements et actualites, rejoignez notre Discord.\n\nCliquez sur le bouton a gauche pour rejoindre l'aventure."
           }
         ],
         "link": {
-          "text": "<TextStyle.Blue>Rejoindre Discord</>",
+          "text": "Rejoindre Discord",
           "url": "https://discord.gg/ZcWWTVCv"
         }
       },
@@ -38,25 +38,20 @@
         "layout": 2,
         "buttontext": "Site Web",
         "imageurl": "https://i.imgur.com/YOUR_SITE_IMAGE.png",
-        "content": [
-          {
-            "title": "<TextStyle.Yellow>Decouvrez tout sur NRV ARK</>",
-            "text": "Toutes les infos, guides et classements sont disponibles sur notre site officiel. <TextStyle.Blue>Cliquez sur le bouton ci-dessous pour explorer notre site !</>"
-          }
-        ],
+        "content": [],
         "link": {
-          "text": "<TextStyle.Blue>Visiter le site</>",
+          "text": "Visiter le site",
           "url": "https://nrv-ark.fr/"
         }
       }
     ],
     "links": [
       {
-        "text": "<TextStyle.Blue>Discord</>",
+        "text": "Discord",
         "url": "https://discord.gg/ZcWWTVCv"
       },
       {
-        "text": "<TextStyle.Green>Site Web</>",
+        "text": "Site Web",
         "url": "https://nrv-ark.fr/"
       }
     ],
