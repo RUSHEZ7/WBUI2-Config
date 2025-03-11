@@ -24,14 +24,7 @@
         "buttontext": "Discord",
         "imageurl": "https://i.imgur.com/YOUR_DISCORD_IMAGE.png",
         "content": [
-          {
-            "title": "🏆 Rejoignez notre communauté sur Discord !",
-            "text": "**📢 Restez informé en temps réel** : annonces, mises à jour et événements du serveur.\n\n"
-                    "**🤝 Échangez avec la communauté** : trouvez des coéquipiers, partagez vos expériences et participez aux discussions.\n\n"
-                    "**🎁 Accédez aux avantages exclusifs** : giveaways, sondages et informations en avant-première.\n\n"
-                    "**❓ Besoin d’aide ?** Notre équipe est là pour vous accompagner.\n\n"
-                    "**🔗 Cliquez sur le bouton en bas à gauche pour rejoindre l'aventure !** 🚀🔥"
-          }
+          
         ],
         "link": {
           "text": "Rejoindre Discord",
