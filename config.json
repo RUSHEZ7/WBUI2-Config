@@ -10,7 +10,7 @@
       "icontextcolor": 0,
       "openonstart": true,
       "openonstartonlynewplayers": true,
-      "updateinterval": 1
+      "updateinterval": 12
     },
     "tabs": [
       {
@@ -19,8 +19,13 @@
         "imageurl": "https://i.imgur.com/bUMOSH9.png",
         "content": [
           {
-            "title": "Bienvenue sur NRV ARK",
-            "text": "Nous vous souhaitons la bienvenue sur notre serveur !\\n\\nVous trouverez ici toutes les informations necessaires pour bien debuter et profiter a fond de l’aventure.\\n\\nN’hesitez pas a consulter les autres onglets pour en savoir plus !"
+            "title": "<RichColor Color=\"1,0.6,0,1\">NRV ARK</> : Accueil",
+            "text": "Nous vous souhaitons la bienvenue sur <RichColor Color=\"1,0.6,0,1\">NRV ARK</> !\\n\\n"
+                    + "Le serveur est en <TextStyle.Red>developpement</>, mais vous profitez deja de nombreuses fonctionnalites :\\n"
+                    + "- Un shop accessible a tous\\n"
+                    + "- Des solutions pour les joueurs console\\n"
+                    + "- Un systeme de <TextStyle.Yellow>points Berrys</> pour des offres exclusives\\n\\n"
+                    + "Rejoignez-nous sur <TextStyle.Blue>Discord</> pour plus d'infos, et n'hesitez pas a visiter notre site pour decouvrir les dernieres nouveautes !"
           }
         ]
       },
@@ -30,8 +35,13 @@
         "imageurl": "https://i.imgur.com/YOUR_DISCORD_IMAGE.png",
         "content": [
           {
-            "title": "Rejoignez notre communaute",
-            "text": "Profitez de toutes les fonctionnalites, evenements et exclusivites de notre serveur.\\n\\nRestez informe des mises a jour, sondages et tirages au sort en rejoignant notre Discord.\\n\\nAccedez a la communaute, aux regles et aux points gratuits !\\n\\n\\n\\n\\n\\nCliquez sur le bouton en bas a gauche pour vivre l'aventure !"
+            "title": "Rejoignez notre communaute Discord",
+            "text": "Profitez de toutes les fonctionnalites, evenements et exclusivites de notre serveur.\\n\\n"
+                    + "Sur <TextStyle.Blue>Discord</>, un bot vous permet de gagner des <RichColor Color=\"1,1,0,1\">points Berrys</> "
+                    + "via diverses commandes, de participer a des tirages au sort et d'obtenir des recompenses VIP.\\n\\n"
+                    + "N'hesitez pas a nous rejoindre pour profiter d'un veritable espace communautaire, poser vos questions "
+                    + "et echanger avec les autres joueurs.\\n\\n"
+                    + "Cliquez sur le bouton en bas a gauche pour vivre l'aventure !"
           }
         ],
         "link": {
@@ -45,8 +55,14 @@
         "imageurl": "https://i.imgur.com/YOUR_SITE_IMAGE.png",
         "content": [
           {
-            "title": "Decouvrez tout sur NRV ARK",
-            "text": "Chaque jour, cochez votre calendrier pour obtenir des points gratuits et profiter des offres exclusives du shop.\\n\\nParticipez a notre systeme de vote pour gagner encore plus de points et acceder a des promotions exceptionnelles.\\n\\nRejoignez-nous sur le site et vivez une experience unique !"
+            "title": "Découvrez notre Site",
+            "text": "Sur <TextStyle.Green>https://nrv-ark.fr/</>, vous trouverez un systeme de <TextStyle.Yellow>points</> "
+                    + "avec <TextStyle.Orange>calendrier</> et <TextStyle.Orange>votes</> pour obtenir "
+                    + "des <TextStyle.Red>Berrys</> gratuits, la monnaie du shop.\\n\\n"
+                    + "Accedez a des <TextStyle.Blue>commandes</>, des <TextStyle.Purple>box speciales</> et "
+                    + "profitez d'avantages <TextStyle.Violet>VIP</> exclusifs.\\n\\n"
+                    + "Les joueurs console sont egalement pris en charge. Rejoignez-nous pour suivre toutes "
+                    + "les nouveautes et beneficier de promotions speciales !"
           }
         ],
         "link": {
