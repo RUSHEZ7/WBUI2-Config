@@ -19,45 +19,30 @@
         "imageurl": "https://i.imgur.com/bUMOSH9.png",
         "content": [
           {
-            "title": "Bienvenue sur <RichColor Color=\"1,0.6,0,1\">NRV ARK</>",
-            "text": "Nous vous souhaitons la bienvenue sur notre serveur !\\n\\n"
-                    "Le serveur est en <TextStyle.Red>developpement</>, mais vous profitez deja de nombreuses fonctionnalites :\\n"
-                    "- Un shop accessible a tous (meme pour les joueurs console)\\n"
-                    "- Un systeme de <TextStyle.Yellow>points Berrys</> via calendrier et votes\\n"
-                    "- Des commandes gratuites et ameliorees avec le VIP\\n\\n"
-                    "N’hesitez pas a consulter les autres onglets pour en savoir plus, "
-                    "et rejoignez-nous sur <TextStyle.Blue>Discord</> pour toute question !"
+            "title": "Bienvenue sur NRV ARK",
+            "text": "Nous vous souhaitons la bienvenue sur notre serveur !\\n\\nLe serveur est en developpement, mais vous profitez deja de nombreuses fonctionnalites :\\n- Un shop accessible a tous\\n- Un systeme de points Berrys via calendrier et votes\\n\\nN’hesitez pas a consulter les autres onglets pour en savoir plus !"
           }
         ]
       },
       {
         "layout": 1,
         "buttontext": "Discord",
-        "imageurl": "https://i.imgur.com/YOUR_DISCORD_IMAGE.png",
+        "imageurl": "https://i.imgur.com/bUMOSH9.png",
         "content": [
           {
             "title": "Rejoignez notre communaute",
-            "text": "Sur <TextStyle.Blue>Discord</>, vous trouverez :\\n"
-                    "- Un bot qui vous permet de gagner des <RichColor Color=\"1,1,0,1\">points Berrys</> avec des commandes\\n"
-                    "- Des evenements, sondages et tirages au sort\\n"
-                    "- Un espace pour poser vos questions et discuter avec la communaute\\n\\n"
-                    "Cliquez sur le bouton \"Discord\" en bas de l'interface pour nous rejoindre et "
-                    "profiter de toutes les exclusivites !"
+            "text": "Sur Discord, vous trouverez :\\n- Un bot qui vous permet de gagner des points Berrys\\n- Des evenements, sondages et tirages au sort\\n\\nCliquez sur le bouton Discord en bas de l'interface pour nous rejoindre !"
           }
         ]
       },
       {
         "layout": 1,
         "buttontext": "Site Web",
-        "imageurl": "https://i.imgur.com/YOUR_SITE_IMAGE.png",
+        "imageurl": "https://i.imgur.com/bUMOSH9.png",
         "content": [
           {
             "title": "Decouvrez tout sur notre site",
-            "text": "Sur <TextStyle.Green>https://nrv-ark.fr/</>, vous trouverez :\\n"
-                    "- Un systeme de points avec calendrier et votes pour obtenir des <TextStyle.Yellow>Berrys</> gratuits\\n"
-                    "- Des box de toute sorte et des commandes speciales dans le shop\\n"
-                    "- Des offres VIP pour debloquer encore plus de possibilites\\n\\n"
-                    "Le site est la pour vous aider a tirer le meilleur parti de votre experience sur NRV ARK !"
+            "text": "Sur https://nrv-ark.fr/, vous trouverez :\\n- Un systeme de points avec calendrier et votes\\n- Des box et des commandes speciales\\n- Des offres VIP\\n\\nLe site est la pour vous aider a tirer le meilleur parti de votre experience sur NRV ARK !"
           }
         ]
       }
